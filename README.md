@@ -1,17 +1,20 @@
 # BlogSite
-A python project to create and view simple blogs.
+A Python-based web application for creating and viewing simple blog posts.  
 
-In this Project, I have made a website that allows the user to add and view the blog articles. I have build it using python, flask, jinja2 for the backend and html, css for the frontend and mongodb as the database.
+The project allows users to add new articles and browse existing ones through a clean and intuitive interface. It is built using Flask and Jinja2 for the backend, HTML/CSS for the frontend, and MongoDB for data storage.
 
-This project has been deployed on AWS and an automated CI CD pipeline has been configure for it using the tools such AWS CodeBuild, AWS CodeDeploy, AWS CodePipeline, EC2 and S3.
-Live Link: https://bloggingsite.onrender.com/
+This project highlights fundamental concepts of web development, routing, templating, and database integration.
+<!--Live Link: https://bloggingsite.onrender.com/-->
 
-# Features
+## Screenshots
+<img width="450" height="250" alt="bloggingsite" src="https://github.com/user-attachments/assets/10e19dda-b578-4706-9909-cc59d0c8bdd7" />
+
+## Features
 - Show all posts
 - Filter posts based on Date range
 - View posts
 
-# Usage
+## Usage
 Here's how you can use the Project:
 1. Install pyenv-win
 2. Unrestrict the execution-policy for pyenv
@@ -23,10 +26,5 @@ Here's how you can use the Project:
 8. Create a .env file and add the following property: MONGODB_URI = "<path for your cluster>"
 9. Run the application using "flask run"
   
-# About
-I developed this project to demonstrate my application development skills. As a software developer, I wanted to explore python api concepts and showcase my skills in web development. I hope this project serves as a demonstration of my capabilities and reflects my passion for IT industry.
-
-# Contact
-If you have any questions, suggestions, or feedback, feel free to reach out to me at ankitasharma.281993@gmail.com.
-
-Thank you for your interest in BlogSite. I hope you find it interesting and valuable.
+## Purpose
+I developed this project to strengthen my application development skills and deepen my understanding of Python-based APIs and web technologies. As a software developer, I wanted to explore practical backend–frontend integration while refining my overall development workflow. I hope this project not only showcases my work but also inspires you to explore, learn, and build something of your own.
