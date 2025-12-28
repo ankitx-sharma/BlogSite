@@ -1,13 +1,14 @@
 # BlogSite
+
+<img alt="bloggingsite" src="https://github.com/user-attachments/assets/10e19dda-b578-4706-9909-cc59d0c8bdd7" />
+
+---
 A Python-based web application for creating and viewing simple blog posts.  
 
 The project allows users to add new articles and browse existing ones through a clean and intuitive interface. It is built using Flask and Jinja2 for the backend, HTML/CSS for the frontend, and MongoDB for data storage.
 
 This project highlights fundamental concepts of web development, routing, templating, and database integration.
 <!--Live Link: https://bloggingsite.onrender.com/-->
-
-## Screenshots
-<img alt="bloggingsite" src="https://github.com/user-attachments/assets/10e19dda-b578-4706-9909-cc59d0c8bdd7" />
 
 ## Features
 - Show all posts
