@@ -7,7 +7,7 @@ This project highlights fundamental concepts of web development, routing, templa
 <!--Live Link: https://bloggingsite.onrender.com/-->
 
 ## Screenshots
-<img width="450" height="250" alt="bloggingsite" src="https://github.com/user-attachments/assets/10e19dda-b578-4706-9909-cc59d0c8bdd7" />
+<img alt="bloggingsite" src="https://github.com/user-attachments/assets/10e19dda-b578-4706-9909-cc59d0c8bdd7" />
 
 ## Features
 - Show all posts
